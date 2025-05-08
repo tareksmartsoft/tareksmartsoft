@@ -11,10 +11,7 @@
 - 💼 Full Stack Developer at **Smart Software Ltd**
 - 👨‍💻 Currently working on Laravel-based enterprise applications like:
   - Society Management System
-  - Hospital Management System
   - Doctor App
-  - Chartered Accountant Audit System
-- 🧠 I love learning and currently exploring **Python** & **Modern Frontend Tools**
 - 🛠️ Comfortable with **Version Control (Git)**, Linux environments, and deployment pipelines
 - 🧩 Strong problem-solving mindset with a deep understanding of system architecture
 
@@ -30,14 +27,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarekhasan-dev&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekhasan-dev&theme=radical" width="47%" />
-</p>
 
 ---
 
