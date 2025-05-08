@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Tarek Hasan 👨‍💻</h1>
+<p align="center">
+  A passionate Full Stack Developer from Bangladesh 🇧🇩 <br/>
+  Focused on solving real-world problems with clean, efficient, and scalable code.
+</p>
 
-<!--
-**tareksmartsoft/tareksmartsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔎 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Full Stack Developer at **Smart Software Ltd**
+- 👨‍💻 Currently working on Laravel-based enterprise applications like:
+  - Society Management System
+  - Hospital Management System
+  - Doctor App
+  - Chartered Accountant Audit System
+- 🧠 I love learning and currently exploring **Python** & **Modern Frontend Tools**
+- 🛠️ Comfortable with **Version Control (Git)**, Linux environments, and deployment pipelines
+- 🧩 Strong problem-solving mindset with a deep understanding of system architecture
+
+---
+
+### 💻 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarekhasan-dev&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarekhasan-dev&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarek-hasan-661023289/)
+- 📧 [Email Me](mailto:tareksmartsoftwaare1@email.com)
